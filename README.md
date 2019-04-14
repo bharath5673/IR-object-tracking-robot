@@ -5,7 +5,7 @@
 ![](images/IMG_20190414_225231.jpg)
 
 
-### inspired : When I saw the “Mr. General” robot by oddbot (link), I loved it. I thought it is “expressive”, a skill difficult to find in a robot built at home. So I built my version of  Mr.General with Arduino.
+### inspired : When I saw the “Mr. General” robots , I loved it. I thought it is “expressive”, a skill difficult to find in a robot built at home. So I built my version of  Mr.General with Arduino.
 
 
 
