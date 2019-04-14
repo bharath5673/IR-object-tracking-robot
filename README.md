@@ -17,6 +17,6 @@ Here the robot in action:
 ![](images/ezgif.com-gif-maker.gif)
 
 
-### materials of this build :
+### materials of this build in indian rupees :
 
 ![link](https://github.com/bharath5673/IR-object-tracking-robot/blob/master/images/Screenshot%20(144).png)
