@@ -19,4 +19,4 @@ Here the robot in action:
 
 ### materials of this build :
 
-![](images/Screenshot144.png)
+![link](https://github.com/bharath5673/IR-object-tracking-robot/blob/master/images/Screenshot%20(144).png)
